@@ -43,16 +43,18 @@ A productivity tool designed to help you stay as busy (and organized) as a bee. 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cuteowlstudio&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuteowlstudio&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cuteowlstudio&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="CuteOwl Studio Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuteowlstudio&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
+> **Note:** Stats will update automatically as we push code to our public repositories! 🚀
 ---
 
 <div align="center">
   <p>Let's build something amazing together! ✨</p>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hi@cuteowlstudio.com">
     <img src="https://img.shields.io/badge/Contact%20Us-Email-D44638?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
